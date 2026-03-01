@@ -29,4 +29,3 @@ No external dependencies for Obligation 1
 ## Author(s)
 
 Ask Reithaug(@pulluh)
-Johnny Niuum(@johnnyniuum)
